@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Akshay 👋</h1>
 
 <p align="center">
-  <b>Python Developer · GST Automation · Cybersecurity Enthusiast</b><br>
+  <b>Python · GST Automation · Cybersecurity Enthusiast</b><br>
   <i>Bangalore, India</i>
 </p>
 
